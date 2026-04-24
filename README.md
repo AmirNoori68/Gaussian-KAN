@@ -36,3 +36,18 @@ Gaussian-KAN/
 ├── model_Gaussian.py      # core Gaussian KAN model
 ├── diagnostics.py         # first-layer conditioning diagnostic
 └── README.md
+```
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{Noorizadegan2026GaussianKAN,
+  title   = {Scaling of Gaussian Kolmogorov--Arnold Networks},
+  author  = {Noorizadegan, Amir and Wang, Sifan},
+  journal = {arXiv preprint arXiv:2604.21174},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2604.21174}
+}
+```
