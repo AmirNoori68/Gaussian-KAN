@@ -13,15 +13,15 @@ The full experimental pipeline is not included. The purpose of this repository i
 
 The Gaussian scale parameter \(\epsilon\) strongly affects the behavior of Gaussian KANs. In this work, we study how \(\epsilon\) influences first-layer feature geometry, conditioning, and approximation accuracy.
 
-The main practical finding is that, for a Gaussian KAN with \(G\) uniformly distributed centers, the interval
+The main practical finding is that, for a Gaussian KAN with $G$ uniformly distributed centers, the interval
 
-\[
+$$
 \epsilon \in
 \left[
 \frac{1}{G-1},
 \frac{2}{G-1}
 \right]
-\]
+$$
 
 provides a stable and effective operating range for the standard shared-center Gaussian KAN considered in the paper.
 
