@@ -1,7 +1,8 @@
 # Gaussian-KAN
+
 Core implementation for the paper:
 
-**Scaling of Gaussian Kolmogorov–Arnold Networks**  
+**[Scaling of Gaussian Kolmogorov–Arnold Networks](https://arxiv.org/abs/2604.21174)**  
 Amir Noorizadegan and Sifan Wang  
 arXiv:2604.21174, 2026
 
