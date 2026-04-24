@@ -43,7 +43,7 @@ Gaussian-KAN/
 If you use this code, please cite:
 
 ```bibtex
-@article{Noorizadegan2026GaussianKAN,
+@article{Amir2026GaussianKAN,
   title   = {Scaling of Gaussian Kolmogorov--Arnold Networks},
   author  = {Noorizadegan, Amir and Wang, Sifan},
   journal = {arXiv preprint arXiv:2604.21174},
