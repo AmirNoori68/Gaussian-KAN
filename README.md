@@ -43,11 +43,15 @@ Gaussian-KAN/
 If you use this code, please cite:
 
 ```bibtex
-@article{Amir2026GaussianKAN,
-  title   = {Scaling of Gaussian Kolmogorov--Arnold Networks},
-  author  = {Noorizadegan, Amir and Wang, Sifan},
-  journal = {arXiv preprint arXiv:2604.21174},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2604.21174}
+@article{Amir2026,
+title = {Making Gaussian Kolmogorov–Arnold networks reliable and accurate},
+journal = {Neurocomputing},
+volume = {703},
+pages = {134771},
+year = {2026},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2026.134771},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231226021697},
+author = {Amir Noorizadegan and Sifan Wang and Leevan Ling},
 }
 ```
