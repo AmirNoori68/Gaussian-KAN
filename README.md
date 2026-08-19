@@ -2,9 +2,9 @@
 
 Core implementation for the paper:
 
-**[Scaling of Gaussian Kolmogorov–Arnold Networks](https://arxiv.org/abs/2604.21174)**  
-Amir Noorizadegan and Sifan Wang  
-arXiv:2604.21174, 2026
+**[Making Gaussian Kolmogorov–Arnold networks reliable and accurate](https://doi.org/10.1016/j.neucom.2026.134771)**  
+Amir Noorizadegan, Sifan Wang and Leevan Ling
+
 
 This repository contains the main Gaussian KAN model and the first-layer conditioning diagnostic used in the paper.
 
